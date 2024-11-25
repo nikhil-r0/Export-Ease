@@ -1,0 +1,81 @@
+[
+    {
+        "source": "Apparel- Adults_Men or Women Clothes.pdf",
+        "category": "Apparel",
+        "subcategory": "Adults",
+        "mandatory_requirements": [],
+        "recommended_requirements": [
+            "their manufacturing procedures.",
+            "Fibre content",
+            "Country of Origin The ASTM standard provides guidelines on specifications",
+            "Details of Manufacturer/Marketed by of the product, the fabric, inflammability etc.",
+            "Mechanics of Labour"
+        ],
+        "applicable_products": [
+            "Trousers",
+            "Track pants",
+            "Shorts",
+            "Jeans",
+            "Overalls",
+            "Dungarees",
+            "Underwear",
+            "Jackets",
+            "Coats",
+            "Rainwear",
+            "Sherwani",
+            "Swimwear",
+            "Shirts",
+            "Sweatshirts",
+            "Sweaters",
+            "unstitched fabrics",
+            "Kurtas",
+            "Leggings",
+            "Lingerie",
+            "Suits",
+            "Vests",
+            "Traditional wear",
+            "Belts",
+            "Gloves",
+            "Socks",
+            "Caps",
+            "Ties",
+            "Mufflers",
+            "Scarves",
+            "Face masks"
+        ],
+        "faqs": {
+            "1) When are the compliance requirements needed?": "(a) The ASTM standards should be followed in the manufacturing processes\n(b) Product labels should be as per FTC & ASTM guidelines before shipping the products to USA",
+            "2) How often are the requirements needed?": "All the requirements are required once for every product",
+            "3) Links for reference:": "(a) FTC (Federal Trade Commission) labelling requirements:\nhttps://www.ftc.gov/tips-advice/business-center/guidance/threading-your-way-through-labeling-requirements-under-textile (b) Guide on Apparel and Textile: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8115.pdf"
+        },
+        "links": [
+            "https://www.ftc.gov/tips-advice/business-center/guidance/threading-your-way-through-labeling-requirements-under-textile",
+            "https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8115.pdf",
+            "https://www.astm.org/Standards/D5489.htm"
+        ]
+    },
+    {
+        "source": "Apparel- Eyewear_Computer Glasses.pdf",
+        "category": "Apparel",
+        "subcategory": "Eyewear",
+        "mandatory_requirements": [],
+        "recommended_requirements": [
+            "FDA registration and listing Quality system requirements",
+            "Certification",
+            "Product Labelling"
+        ],
+        "applicable_products": [],
+        "faqs": {
+            "1. When are the compliance requirements needed?": "All requirements are to be completed before exporting the products to USA",
+            "2. How often are the requirements needed?": "(a) Medical device establishment registration shall be required once and shall be renewed at annual intervals\n(b) Listing of the device with FDA shall be required once for every product\n(c) Adhering to Quality system is the continuous requirement\n(d) Impact resistant testing and certification shall be required once for each lot of production\n(e) Product labeling is required once for every product, unless there is a change in the regulations",
+            "3. Links for reference:": "(a) FDA registration and listing: https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/sunglasses-spectacle-frames-spectacle-lens-and-magnifying-spectacles\n(b) Impact resistant testing:\nhttps://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr="
+        },
+        "links": [
+            "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/sunglasses-spectacle-frames-spectacle-lens-and-magnifying-spectacles",
+            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=801.410",
+            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=801",
+            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820",
+            "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf"
+        ]
+    }
+]

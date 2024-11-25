@@ -1,0 +1,3 @@
+[submodule "expo-ease"]
+	path = expo-ease
+	url = git@github.com:nikhil-r0/expo-ease.git
